@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rubby"
+      },
+      {
+        "value": "CUSTOM:ForgedSteel4"
+      },
+      {
+        "value": "CUSTOM:Rubby"
+      },
+      {
+        "value": "CUSTOM:Soul"
+      },
+      {
+        "value": "CUSTOM:SoulGem"
+      },
+      {
+        "value": "CUSTOM:Soul"
+      },
+      {
+        "value": "CUSTOM:Blood"
+      },
+      {
+        "value": "CUSTOM:ForgedSteel4"
+      },
+      {
+        "value": "CUSTOM:Blood"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SoulGem2"
+    },
+    "name": "soulgem_2recipe",
+    "namespace": "mod"
+  }
+}

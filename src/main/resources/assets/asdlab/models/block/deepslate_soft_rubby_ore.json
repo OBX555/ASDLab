@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "asdlab:block/softrubbydeepstaleore",
+    "up": "asdlab:block/softrubbydeepstaleore",
+    "north": "asdlab:block/softrubbydeepstaleore",
+    "east": "asdlab:block/softrubbydeepstaleore",
+    "south": "asdlab:block/softrubbydeepstaleore",
+    "west": "asdlab:block/softrubbydeepstaleore",
+    "particle": "asdlab:block/softrubbydeepstaleore"
+  },
+  "render_type": "solid"
+}

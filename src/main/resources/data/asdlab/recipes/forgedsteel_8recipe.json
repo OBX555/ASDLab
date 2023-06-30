@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "asdlab:hot_forged_steel_7"
+  },
+  "addition": {
+    "item": "asdlab:hot_forged_steel_7"
+  },
+  "result": {
+    "item": "asdlab:forged_steel_8"
+  }
+}

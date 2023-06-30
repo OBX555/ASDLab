@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "asdlab:pngforwelcomeadvancment"
+    },
+    "title": {
+      "translate": "advancements.real_suspicius.title"
+    },
+    "description": {
+      "translate": "advancements.real_suspicius.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "real_suspicius": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 36
+  },
+  "parent": "asdlab:vampire_murdererwithvampiresblood"
+}

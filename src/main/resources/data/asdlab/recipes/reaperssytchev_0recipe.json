@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "asdlab:forged_steel_5"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "asdlab:soul_gem"
+    },
+    "4": {
+      "item": "asdlab:steel_sytche"
+    },
+    "5": {
+      "item": "asdlab:soul_gem"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "asdlab:forged_steel_5"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "asdlab:reapers_sytche",
+    "count": 1
+  }
+}

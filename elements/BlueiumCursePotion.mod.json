@@ -1,0 +1,30 @@
+{
+  "_fv": 43,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Blueium Curse Potion",
+    "splashName": "Splash Potion of Blueium Curse Potion",
+    "lingeringName": "Lingering Potion of Blueium Curse Potion",
+    "arrowName": "Arrow of Blueium Curse Potion",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:BlueiumCurse"
+        },
+        "duration": 10000,
+        "amplifier": 5,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "NAUSEA"
+        },
+        "duration": 500,
+        "amplifier": 15,
+        "ambient": false,
+        "showParticles": false
+      }
+    ]
+  }
+}

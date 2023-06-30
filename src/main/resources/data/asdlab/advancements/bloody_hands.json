@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "asdlab:blood"
+    },
+    "title": {
+      "translate": "advancements.bloody_hands.title"
+    },
+    "description": {
+      "translate": "advancements.bloody_hands.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bloody_hands": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "asdlab:blood"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 26
+  },
+  "parent": "asdlab:welcome"
+}

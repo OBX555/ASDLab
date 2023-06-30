@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 10,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:SteelIngot"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:HotSteel"
+    },
+    "name": "hotsteelrecipe",
+    "namespace": "mod"
+  }
+}

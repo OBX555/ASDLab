@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "1": {
+      "item": "asdlab:forged_steel_6"
+    },
+    "2": {
+      "item": "asdlab:right"
+    },
+    "3": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "5": {
+      "item": "asdlab:forged_steel_6"
+    }
+  },
+  "result": {
+    "item": "asdlab:left",
+    "count": 1
+  }
+}

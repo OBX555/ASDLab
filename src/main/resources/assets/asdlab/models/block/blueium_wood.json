@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "asdlab:block/blueiumwood2",
+    "up": "asdlab:block/blueiumwood2",
+    "north": "asdlab:block/blueiumwood1",
+    "east": "asdlab:block/blueiumwood1",
+    "south": "asdlab:block/blueiumwood1",
+    "west": "asdlab:block/blueiumwood1",
+    "particle": "asdlab:block/blueiumwood2"
+  },
+  "render_type": "solid"
+}

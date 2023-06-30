@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "asdlab:up"
+    },
+    "title": {
+      "translate": "advancements.up_time.title"
+    },
+    "description": {
+      "translate": "advancements.up_time.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "up_time": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "asdlab:up"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 40
+  },
+  "parent": "asdlab:left_time"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "asdlab:packaged_blood"
+    }
+  ],
+  "result": {
+    "item": "asdlab:blood",
+    "count": 9
+  }
+}

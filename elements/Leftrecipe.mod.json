@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POINTED_DRIPSTONE"
+      },
+      {
+        "value": "CUSTOM:ForgedSteel6"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Right"
+      },
+      {
+        "value": "Blocks.POINTED_DRIPSTONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ForgedSteel6"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Left"
+    },
+    "name": "leftrecipe",
+    "namespace": "mod"
+  }
+}

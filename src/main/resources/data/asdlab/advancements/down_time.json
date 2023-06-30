@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "asdlab:down"
+    },
+    "title": {
+      "translate": "advancements.down_time.title"
+    },
+    "description": {
+      "translate": "advancements.down_time.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "down_time": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "asdlab:down"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 45
+  },
+  "parent": "asdlab:up_time"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "asdlab:packaged_blood"
+    },
+    "1": {
+      "item": "asdlab:packaged_blood"
+    },
+    "2": {
+      "item": "asdlab:packaged_blood"
+    },
+    "3": {
+      "item": "asdlab:packaged_blood"
+    },
+    "4": {
+      "item": "asdlab:packaged_blood"
+    },
+    "5": {
+      "item": "asdlab:packaged_blood"
+    },
+    "6": {
+      "item": "asdlab:packaged_blood"
+    },
+    "7": {
+      "item": "asdlab:packaged_blood"
+    },
+    "8": {
+      "item": "asdlab:packaged_blood"
+    }
+  },
+  "result": {
+    "item": "asdlab:packaged_blood_2",
+    "count": 1
+  }
+}

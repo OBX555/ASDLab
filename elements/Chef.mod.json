@@ -1,0 +1,16 @@
+{
+  "_fv": 43,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Chef",
+    "pointOfInterest": {
+      "value": "Blocks.FURNACE"
+    },
+    "actionSound": {
+      "value": "entity.villager.trading"
+    },
+    "hat": "Full",
+    "professionTextureFile": "sef0.png",
+    "zombifiedProfessionTextureFile": "zombisef0.png"
+  }
+}

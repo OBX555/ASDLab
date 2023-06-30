@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "asdlab:diaitemdothats"
+    },
+    "title": {
+      "translate": "advancements.blue_sea_friend.title"
+    },
+    "description": {
+      "translate": "advancements.blue_sea_friend.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "blue_sea_friend": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "asdlab:diaitemdothats"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "asdlab:welcome"
+}

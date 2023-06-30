@@ -1,0 +1,249 @@
+{
+  "_fv": 43,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:Chef"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_FISH#0"
+            },
+            "countOffer": 10,
+            "level": 1,
+            "maxTrades": 64,
+            "xp": 5,
+            "priceMultiplier": 0.049999999999999996
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_FISH#1"
+            },
+            "countOffer": 10,
+            "level": 1,
+            "maxTrades": 64,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.BAKED_POTATO"
+            },
+            "countOffer": 30,
+            "level": 2,
+            "maxTrades": 64,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_PORKCHOP"
+            },
+            "countOffer": 5,
+            "level": 2,
+            "maxTrades": 64,
+            "xp": 10,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_BEEF"
+            },
+            "countOffer": 5,
+            "level": 2,
+            "maxTrades": 64,
+            "xp": 10,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_CHICKEN"
+            },
+            "countOffer": 5,
+            "level": 2,
+            "maxTrades": 64,
+            "xp": 8,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_RABBIT"
+            },
+            "countOffer": 5,
+            "level": 2,
+            "maxTrades": 64,
+            "xp": 8,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKIE"
+            },
+            "countOffer": 24,
+            "level": 3,
+            "maxTrades": 64,
+            "xp": 9,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 4,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.CAKE"
+            },
+            "countOffer": 5,
+            "level": 3,
+            "maxTrades": 20,
+            "xp": 20,
+            "priceMultiplier": 0.12
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.GOLDEN_APPLE#0"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 64,
+            "xp": 15,
+            "priceMultiplier": 0.08
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COOKED_MUTTON"
+            },
+            "countOffer": 5,
+            "level": 2,
+            "maxTrades": 64,
+            "xp": 10,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 10,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.GOLDEN_APPLE#1"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 30,
+            "xp": 30,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 4,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.GOLDEN_CARROT"
+            },
+            "countOffer": 32,
+            "level": 3,
+            "maxTrades": 128,
+            "xp": 10,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "asdlab:hot_hard_rubby"
+  },
+  "addition": {
+    "item": "asdlab:hot_hard_rubby"
+  },
+  "result": {
+    "item": "asdlab:hard_rubby_2"
+  }
+}

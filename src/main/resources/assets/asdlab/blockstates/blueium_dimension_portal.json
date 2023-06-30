@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "asdlab:block/blueium_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "asdlab:block/blueium_dimension_portal_ns"
+    }
+  }
+}

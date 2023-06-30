@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "asdlab:rubby"
+    },
+    "1": {
+      "item": "asdlab:forged_steel_4"
+    },
+    "2": {
+      "item": "asdlab:rubby"
+    },
+    "3": {
+      "item": "asdlab:soul"
+    },
+    "4": {
+      "item": "asdlab:soul_gem"
+    },
+    "5": {
+      "item": "asdlab:soul"
+    },
+    "6": {
+      "item": "asdlab:blood"
+    },
+    "7": {
+      "item": "asdlab:forged_steel_4"
+    },
+    "8": {
+      "item": "asdlab:blood"
+    }
+  },
+  "result": {
+    "item": "asdlab:soul_gem_2",
+    "count": 1
+  }
+}

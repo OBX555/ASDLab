@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  2",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "asdlab:blood"
+    },
+    "3": {
+      "item": "asdlab:bloody_bone"
+    },
+    "4": {
+      "item": "asdlab:blood"
+    },
+    "6": {
+      "item": "asdlab:bloody_bone"
+    },
+    "7": {
+      "item": "asdlab:bloody_bone"
+    }
+  },
+  "result": {
+    "item": "asdlab:bloody_bone_sword",
+    "count": 1
+  }
+}

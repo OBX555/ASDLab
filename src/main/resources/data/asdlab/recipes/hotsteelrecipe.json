@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 10,
+  "ingredient": {
+    "item": "asdlab:steel_ingot"
+  },
+  "result": "asdlab:hot_steel"
+}

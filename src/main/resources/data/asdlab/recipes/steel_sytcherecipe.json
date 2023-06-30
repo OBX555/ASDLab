@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "asdlab:steel_ingot"
+    },
+    "1": {
+      "item": "asdlab:steel_ingot"
+    },
+    "2": {
+      "item": "asdlab:steel_ingot"
+    },
+    "4": {
+      "item": "asdlab:longsteelstick"
+    },
+    "6": {
+      "item": "asdlab:longsteelstick"
+    }
+  },
+  "result": {
+    "item": "asdlab:steel_sytche",
+    "count": 1
+  }
+}

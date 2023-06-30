@@ -1,0 +1,7 @@
+{
+  "parent": "asdlab:custom/sytchev0",
+  "textures": {
+    "0": "asdlab:block/texturesytchev0",
+    "particle": "asdlab:item/sytchelookingtexture"
+  }
+}

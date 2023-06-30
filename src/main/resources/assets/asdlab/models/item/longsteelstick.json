@@ -1,0 +1,7 @@
+{
+  "parent": "asdlab:custom/longsteelstick",
+  "textures": {
+    "0": "asdlab:block/longsteelsticktexture",
+    "particle": "asdlab:item/steelstick"
+  }
+}

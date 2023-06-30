@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "asdlab:bloody_bone"
+    },
+    "title": {
+      "translate": "advancements.bon_ewithlittlebitof_blood.title"
+    },
+    "description": {
+      "translate": "advancements.bon_ewithlittlebitof_blood.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bon_ewithlittlebitof_blood": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "asdlab:bloody_bone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 35
+  },
+  "parent": "asdlab:bloody_hands"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "asdlab:soulgem_4"
+    },
+    "2": {
+      "item": "asdlab:toastedsliceofbread"
+    },
+    "3": {
+      "item": "asdlab:time"
+    },
+    "4": {
+      "item": "asdlab:diaitemdothats"
+    },
+    "5": {
+      "item": "asdlab:time"
+    },
+    "6": {
+      "item": "asdlab:toastedsliceofbread"
+    },
+    "7": {
+      "item": "asdlab:soulgem_4"
+    }
+  },
+  "result": {
+    "item": "asdlab:blueium_dimension",
+    "count": 1
+  }
+}

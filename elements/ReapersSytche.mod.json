@@ -1,0 +1,29 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "sytchelookingtexture",
+    "customModelName": "sytchev0:default",
+    "name": "Reapers Sytche",
+    "specialInfo": [
+      "Tier0"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ItemsBlocks"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 0.65,
+    "enchantability": 36,
+    "damageVsEntity": 16.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

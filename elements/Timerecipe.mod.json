@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SoulGem3"
+      },
+      {
+        "value": "CUSTOM:Up"
+      },
+      {
+        "value": "CUSTOM:SoulGem3"
+      },
+      {
+        "value": "CUSTOM:Left"
+      },
+      {
+        "value": "CUSTOM:SoftRubby"
+      },
+      {
+        "value": "CUSTOM:Right"
+      },
+      {
+        "value": "CUSTOM:Soul"
+      },
+      {
+        "value": "CUSTOM:Down"
+      },
+      {
+        "value": "CUSTOM:Soul"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Time"
+    },
+    "name": "timerecipe",
+    "namespace": "mod"
+  }
+}

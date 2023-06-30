@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "asdlab:block/rubbyoredeepslatev",
+    "up": "asdlab:block/rubbyoredeepslatev",
+    "north": "asdlab:block/rubbyoredeepslatev",
+    "east": "asdlab:block/rubbyoredeepslatev",
+    "south": "asdlab:block/rubbyoredeepslatev",
+    "west": "asdlab:block/rubbyoredeepslatev",
+    "particle": "asdlab:block/rubbyoredeepslatev"
+  },
+  "render_type": "solid"
+}

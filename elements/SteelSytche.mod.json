@@ -1,0 +1,29 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "sytchelookingtexture",
+    "customModelName": "sytchev0:default",
+    "name": "Steel Sytche",
+    "specialInfo": [
+      "A steel sytche"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 0.5,
+    "enchantability": 13,
+    "damageVsEntity": 11.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
